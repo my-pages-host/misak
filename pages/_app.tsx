@@ -1,4 +1,4 @@
-import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap/scss/bootstrap.scss'
 import "../styles/globals.css";
 import "../styles/font-face.css";
 import "../styles/old.css";
