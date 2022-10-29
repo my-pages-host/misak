@@ -1,6 +1,6 @@
 .container {
-  background: black url("/misa-1.jpg") no-repeat fixed right center;
-  background-size: contain;
+  background: black url("/misa-1.jpg") no-repeat fixed right top;
+  background-size: cover;
   height: 100vh;
   position: relative;
 }
