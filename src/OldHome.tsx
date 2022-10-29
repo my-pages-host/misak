@@ -21,8 +21,7 @@ export const OldHome: React.FC<React.PropsWithChildren> = ({children}) => (
       </div>
     </div>
     <div id="sticky-wrapper" className="sticky-wrapper" style={{ height: "60.8594px" }}>
-      <header className="site-navbar py-4 js-sticky-header site-navbar-target" role="banner"
-              style={{ width: "1241px" }}>
+      <header className="site-navbar py-4 js-sticky-header site-navbar-target" role="banner">
         <div className="container-fluid">
           <div className="row align-items-center justify-content-center">
             <div className="">
