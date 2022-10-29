@@ -144,10 +144,23 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@x/x@link:./src::locator=nextjs-github-pages%40workspace%3A.":
+  version: 0.0.0-use.local
+  resolution: "@x/x@link:./src::locator=nextjs-github-pages%40workspace%3A."
+  languageName: node
+  linkType: soft
+
 "caniuse-lite@npm:^1.0.30001406":
   version: 1.0.30001426
   resolution: "caniuse-lite@npm:1.0.30001426"
   checksum: e8b9c14ee33410d95b27da619f50648f373a7be712748970643f25d95fa80687b4755ba365f34a7a1cea00f9137193943aa6e742eedf0a4d7857f83809f49435
+  languageName: node
+  linkType: hard
+
+"clsx@npm:^1.2.1":
+  version: 1.2.1
+  resolution: "clsx@npm:1.2.1"
+  checksum: 30befca8019b2eb7dbad38cff6266cf543091dae2825c856a62a8ccf2c3ab9c2907c4d12b288b73101196767f66812365400a227581484a05f968b0307cfaf12
   languageName: node
   linkType: hard
 
@@ -260,6 +273,8 @@ __metadata:
   dependencies:
     "@types/node": 18.11.7
     "@types/react": 18.0.24
+    "@x/x": "link:./src"
+    clsx: ^1.2.1
     next: 12.3.1
     react: 18.2.0
     react-dom: 18.2.0
