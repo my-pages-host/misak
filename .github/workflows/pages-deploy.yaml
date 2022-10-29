@@ -22,7 +22,7 @@ jobs:
 
       - name: Build
         run: |
-          yarn install
+          yarn install --immutable
           yarn run build
           yarn run export
 
