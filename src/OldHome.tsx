@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from "react";
 
 export const OldHome: React.FC<React.PropsWithChildren> = ({children}) => (
