@@ -248,15 +248,6 @@ export const OldHome: React.FC<React.PropsWithChildren> = ({children}) => (
                   className="btn smoothscroll btn-primary">Contact Me</a></p>
           </div>
         </div>
-        <div className="row">
-          <div className="col-12 text-center">
-            <p>
-              Míša Podlipská ©
-              {new Date().getFullYear()}
-              All rights reserved
-            </p>
-          </div>
-        </div>
       </div>
     </footer>
   </>
