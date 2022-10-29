@@ -458,6 +458,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"bootstrap@npm:^5.2.2":
+  version: 5.2.2
+  resolution: "bootstrap@npm:5.2.2"
+  peerDependencies:
+    "@popperjs/core": ^2.11.6
+  checksum: 14e6df28feb975dc10702cac0a6c2a21132a6e4e5562e31cdae1db3970e287ed29001020066b61d96b2cea2a45ecf44c08c8c26bc84a31cdeabec0a9be6b9389
+  languageName: node
+  linkType: hard
+
 "brace-expansion@npm:^1.1.7":
   version: 1.1.11
   resolution: "brace-expansion@npm:1.1.11"
@@ -1709,6 +1718,7 @@ __metadata:
     "@types/node": 18.11.7
     "@types/react": 18.0.24
     "@x/x": "link:./src"
+    bootstrap: ^5.2.2
     clsx: ^1.2.1
     eslint: 8.26.0
     eslint-config-next: 13.0.0

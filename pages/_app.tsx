@@ -1,9 +1,8 @@
 import "../styles/globals.css";
 import "../styles/font-face.css";
 import "../styles/old.css";
+import 'bootstrap/dist/css/bootstrap.css'
 
-function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />;
-}
+const MyApp = ({ Component, pageProps }) => <Component {... pageProps} />;
 
 export default MyApp;

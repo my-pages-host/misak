@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@x/x": "link:./src",
+    "bootstrap": "^5.2.2",
     "clsx": "^1.2.1",
     "next": "12.3.1",
     "react": "18.2.0",

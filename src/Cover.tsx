@@ -1,5 +1,6 @@
 import styles from "./Cover.module.css";
 import clsx from "clsx";
+import 'bootstrap/dist/css/bootstrap.css'
 
 export const Cover = () => <div className={clsx(styles.container, "site-blocks-cover")} id="home-section">
   <div className="container">
