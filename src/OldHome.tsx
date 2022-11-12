@@ -235,16 +235,22 @@ export const OldHome: React.FC<React.PropsWithChildren> = ({children}) => (
     <footer className="site-section bg-light footer">
       <div className="container">
         <div className="row mb-5">
-          <div className="col-md-3">
+          <div className="col col-md-3">
             <h3 className="footer-title">Working area</h3>
-            <p><span className="d-inline-block d-md-block">Czech Republic, Prague</span></p>
+            <p><span className="d-inline-block d-md-block">Prague, Czech Republic</span></p>
           </div>
-          <div className="col-md-1">
+          <div className="col col-md-9">
             <h3 className="footer-title">Let's chat on</h3>
-            <p><span className="d-inline-block d-md-block">+420 730 102 484</span></p>
-            <p><span className="d-inline-block d-md-block">podlipska.misa@gmail.com</span></p>
-            <p><a href="#contact-section"
-                  className="btn smoothscroll btn-primary">Contact Me</a></p>
+            <p>
+              <span className="d-inline-block d-md-block">
+                <a href="tel:+420730102484">+420 730 102 484</a>
+              </span>
+            </p>
+            <p>
+              <span className="d-inline-block d-md-block">
+                <a href="mailto:podlipska.misa@gmail.com">podlipska.misa@gmail.com</a>
+              </span>
+            </p>
           </div>
         </div>
       </div>
