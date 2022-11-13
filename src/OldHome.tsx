@@ -3,53 +3,6 @@ import React from "react";
 
 export const OldHome: React.FC<React.PropsWithChildren> = ({children}) => (
   <>
-    <div className="site-mobile-menu site-navbar-target">
-      <div className="site-mobile-menu-header">
-        <div className="site-mobile-menu-close mt-3">
-          <span className="icon-close2 js-menu-toggle"></span>
-        </div>
-      </div>
-      <div className="site-mobile-menu-body">
-        <ul className="site-nav-wrap">
-          <li><a href="#home-section" className="nav-link active">Home</a></li>
-          <li><a href="#experience-section" className="nav-link">Experience</a></li>
-          <li><a href="#about-section" className="nav-link">About</a></li>
-        </ul>
-        <ul className="site-nav-wrap">
-          <li><a href="#contact-section" className="nav-link">Contact</a></li>
-        </ul>
-      </div>
-    </div>
-    <div id="sticky-wrapper" className="sticky-wrapper" style={{ height: "60.8594px" }}>
-      <header className="site-navbar py-4 js-sticky-header site-navbar-target" role="banner">
-        <div className="container-fluid">
-          <div className="row align-items-center justify-content-center">
-            <div className="">
-              <nav className="site-navigation position-relative text-right" role="navigation">
-                <ul className="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-                  <li><a href="#home-section" className="nav-link active">Home</a>
-                  </li>
-                  <li><a href="#experience-section" className="nav-link">Experience</a>
-                  </li>
-                  <li><a href="#about-section" className="nav-link">About Me</a>
-                  </li>
-                  <li><a href="#contact-section" className="nav-link">Contact</a></li>
-                </ul>
-              </nav>
-            </div>
-            <div className=" text-center mx-5">
-              <h1 className="m-0 site-logo"><a href="#about-section" className="nav-link">Good to know </a></h1>
-            </div>
-            <div className="d-inline-block d-lg-none" style={{ position: "relative", top: "3px" }}>
-              <a
-                href="#"
-                className="site-menu-toggle js-menu-toggle float-right"><span
-                className="icon-menu h3"></span></a>
-            </div>
-          </div>
-        </div>
-      </header>
-    </div>
     {children}
     <section>
       <div className="site-section" id="services-section">
