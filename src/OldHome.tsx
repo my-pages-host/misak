@@ -56,12 +56,18 @@ export const OldHome: React.FC<React.PropsWithChildren> = ({ children }) => (
                       10&nbsp;% jednorázových objednávek (graf&nbsp;2)
                     </li>
                   </ul>
+
+                  <p>
+                    Důvod ukončení: nebyla potvrzena hypotéza o velikosti a připravenosti trhu úklidu B2C v ČR pro
+                    dosažení byznys hodnoty 300 mil do 5 let.
+                  </p>
                 </div>
               </div>
             </div>
             <div className="col-12 col-xl-6">
               <div className="card flex-row">
-                <div className="service-number mr-4 d-none d-xl-block"><span className="icon-business_center"></span></div>
+                <div className="service-number mr-4 d-none d-xl-block"><span className="icon-business_center"></span>
+                </div>
                 <div className="service-about">
                   <h3><strong>Product owner</strong></h3>
                   <p>2021-now | CETIN a.s., Czech telecommunications company that is part of PPF Group</p>
@@ -100,6 +106,10 @@ export const OldHome: React.FC<React.PropsWithChildren> = ({ children }) => (
                       10&nbsp;% jednorázových objednávek (graf&nbsp;2)
                     </li>
                   </ul>
+
+                  <p>
+                    Důvod ukončení: v Q1 2023 dokončení vývoje sw GIMS a také Rollout i certifikace byznys uživatelů.
+                  </p>
                 </div>
               </div>
             </div>
@@ -155,7 +165,7 @@ export const OldHome: React.FC<React.PropsWithChildren> = ({ children }) => (
         </div>
       </div>
     </section>
-    <Call />
+    <Call/>
     <footer className="site-section bg-light footer">
       <div className="container">
         <div className="row mb-5">
