@@ -1,7 +1,8 @@
-import 'bootstrap/scss/bootstrap.scss'
+// import 'bootstrap/scss/bootstrap.scss'
+import '../styles/bootstrap.scss'
 import "../styles/globals.css";
 import "../styles/font-face.css";
-import "../styles/old.css";
+import "../styles/old.scss";
 
 const MyApp = ({ Component, pageProps }) => <Component {... pageProps} />;
 

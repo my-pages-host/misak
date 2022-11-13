@@ -10,7 +10,7 @@ export const Cover = () => <div className={clsx(styles.container, "site-blocks-c
             <h1 className="text-black">Míša Podlipská</h1>
             <p className="lead">Delivery garant of business value stream</p>
             <p className="d-none d-md-block">
-              <a href="#services-section" className="btn smoothscroll btn-primary">Co pro Váš byznys můžu udělat</a>
+              <a href="#services-section" className="btn smoothscroll btn-primary btn-lg">Co pro Váš byznys můžu udělat</a>
             </p>
           </div>
         </div>

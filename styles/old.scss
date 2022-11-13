@@ -13,8 +13,10 @@
     color: white !important;
 }
 
+@import "variables";
+
 :root {
-    --dior: #c4342a;
+    --dior: #{$dior};
 }
 
 body {
@@ -65,45 +67,19 @@ body:after {
     background: rgba(0, 0, 0, .2)
 }
 
-.btn {
-    font-size: 16px;
-    border-radius: 30px;
-    padding: 10px 30px
-}
-
-.btn:hover, .btn:active, .btn:focus {
-    outline: none;
-    box-shadow: none !important
-}
-
-.btn.btn-primary {
-    background: var(--dior);
-    border-color: var(--dior);
-    color: #fff
-}
-
-.btn.btn-primary:hover {
-    background: #000;
-    border-color: #000;
-    color: #fff
-}
-
-.form-control {
-    height: 43px;
-    border-radius: 30px;
-    font-family: "Arbutus Slab", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
-}
-
-.form-control:active, .form-control:focus {
-    border-color: var(--dior)
-}
-
-.form-control:hover, .form-control:active, .form-control:focus {
-    box-shadow: none !important
-}
+//.btn:hover, .btn:active, .btn:focus {
+//    outline: none;
+//    box-shadow: none !important
+//}
 
 .site-section {
     padding: 2.5em 0
+}
+
+.site-section {
+    .card {
+        padding: 2rem;
+    }
 }
 
 @media (min-width: 768px) {
@@ -490,29 +466,20 @@ body:after {
     background: #fff
 }
 
-.position-relative {
-    position: relative
-}
-
-.service {
-    padding: 30px;
-    background: #fff;
-    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, .1);
+.card {
     transition: .3s all ease-in-out;
-    top: 0;
-    position: relative
 }
 
-.service:hover {
-    box-shadow: 0 8px 50px -5px rgba(0, 0, 0, .1);
+.card:hover {
+    box-shadow: 0 8px 50px -5px rgba(0, 0, 0, .2);
     top: -2px
 }
 
-.service .service-number {
+.card .service-number {
     flex: 0 0 60px
 }
 
-.service .service-number span {
+.card .service-number span {
     position: relative;
     width: 50px;
     height: 50px;
@@ -524,11 +491,11 @@ body:after {
     text-align: center
 }
 
-.service .service-about *:last-child {
+.card .service-about *:last-child {
     margin-bottom: 0
 }
 
-.service .service-about h3 {
+.card .service-about h3 {
     font-size: 1.2rem;
     margin-bottom: 10px
 }

@@ -5,17 +5,15 @@ import { CanDo } from "./CanDo";
 export const OldHome: React.FC<React.PropsWithChildren> = ({ children }) => (
   <>
     {children}
-    <CanDo />
+    <CanDo/>
     <section>
       <div className="site-section" id="experience-section">
         <div className="container">
-          <div className="row ">
-            <div className="col-12 mb-5 position-relative">
-              <h2 className="section-title text-center mb-5">Experience</h2>
-            </div>
-            <div className="col-md-6 mb-4">
-              <div className="service d-flex h-100">
-                <div className="service-number mr-4"><span className="icon-style"></span></div>
+          <h2 className="section-title text-center mb-5">Experience</h2>
+          <div className="row">
+            <div className="col-12 col-lg-6 mb-4">
+              <div className="card flex-row">
+                <div className="service-number mr-4 d-none d-xl-block"><span className="icon-style"></span></div>
                 <div className="service-about">
                   <h3><strong>Business Owner</strong></h3>
                   <p>2015-2020 | Spoluzakladelka & Ředitelka společnosti LidskaSila s.r.o., Expert na
@@ -39,7 +37,6 @@ export const OldHome: React.FC<React.PropsWithChildren> = ({ children }) => (
                   <p><strong>V důsledku toho bylo dosaženo následující:</strong></p>
 
                   <ul>
-
                     <li>Zvýšení LTV z 33,33&nbsp;% na <strong>62,50&nbsp;%</strong> meziročně (graf&nbsp;3)
                     </li>
                     <li>Růst opakovatelnosti nákupu předplatitelů z 67,85&nbsp;% na
@@ -61,9 +58,9 @@ export const OldHome: React.FC<React.PropsWithChildren> = ({ children }) => (
                 </div>
               </div>
             </div>
-            <div className="col-md-6 mb-4">
-              <div className="service d-flex h-100">
-                <div className="service-number mr-4"><span className="icon-business_center"></span></div>
+            <div className="col-12 col-xl-6">
+              <div className="card flex-row">
+                <div className="service-number mr-4 d-none d-xl-block"><span className="icon-business_center"></span></div>
                 <div className="service-about">
                   <h3><strong>Product owner</strong></h3>
                   <p>2021-now | CETIN a.s., Czech telecommunications company that is part of PPF Group</p>
@@ -84,7 +81,6 @@ export const OldHome: React.FC<React.PropsWithChildren> = ({ children }) => (
                   <p><strong>V důsledku toho bylo dosaženo následující:</strong></p>
 
                   <ul>
-
                     <li>Zvýšení LTV z 33,33&nbsp;% na <strong>62,50&nbsp;%</strong> meziročně (graf&nbsp;3)
                     </li>
                     <li>Růst opakovatelnosti nákupu předplatitelů z 67,85&nbsp;% na
@@ -108,7 +104,7 @@ export const OldHome: React.FC<React.PropsWithChildren> = ({ children }) => (
             </div>
             <div className="site-section" id="about-section">
               <div className="container">
-                <div className="row ">
+                <div className="row">
                   <div className="col-12 mb-4 position-relative">
                     <h2 className="section-title">About Me</h2>
                     <p>Hledám společnost (projekt) s ambiciózním a dobře komunikovaným business záměrem,
