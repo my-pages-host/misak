@@ -1,25 +1,11 @@
 /* eslint-disable */
 import React from "react";
+import { CanDo } from "./CanDo";
 
-export const OldHome: React.FC<React.PropsWithChildren> = ({children}) => (
+export const OldHome: React.FC<React.PropsWithChildren> = ({ children }) => (
   <>
     {children}
-    <section>
-      <div className="site-section" id="services-section">
-        <div className="container">
-          <div className="row ">
-            <div className="col-12 mb-5 position-relative">
-              <h3><strong>For your business I can do</strong></h3>
-              <p>Zajistit ROI.Zajistit ROI.Zajistit ROI.Zajistit ROI.Zajistit
-                ROI................................................................................... </p>
-              <p>Zajistit ROI.Zajistit ROI.Zajistit ROI.Zajistit ROI.Zajistit ROI. </p>
-              <p>Zajistit ROI.Zajistit ROI.Zajistit ROI.Zajistit ROI.Zajistit ROI. </p>
-              <p>Zajistit ROI.Zajistit ROI.Zajistit ROI.Zajistit ROI.Zajistit ROI. </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    <CanDo />
     <section>
       <div className="site-section" id="experience-section">
         <div className="container">
