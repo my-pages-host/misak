@@ -1,0 +1,21 @@
+@import "../styles/bootstrap-init";
+
+.container {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  max-height: 1000px;
+  background: url("/misa-3.jpg") no-repeat center center;
+  background-size: cover;
+  color: white !important;
+
+  @include media-breakpoint-up(lg) {
+    background-attachment: fixed;
+    background-size: auto;
+  }
+
+}
+
+.title {
+  font-size: 4rem;
+}

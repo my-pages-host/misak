@@ -1,18 +1,3 @@
-#call-section .section-title {
-    color: white !important;
-    text-align: center;
-    font-size: 4rem;
-}
-
-#call-section {
-    display: flex;
-    align-items: center;
-    height: 100vh;
-    max-height: 1000px;
-    background: url("/misa-3.jpg") no-repeat center center fixed;
-    color: white !important;
-}
-
 @import "variables";
 
 :root {

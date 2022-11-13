@@ -1,6 +1,7 @@
 /* eslint-disable */
 import React from "react";
 import { CanDo } from "./CanDo";
+import { Call } from "./Call";
 
 export const OldHome: React.FC<React.PropsWithChildren> = ({ children }) => (
   <>
@@ -154,19 +155,7 @@ export const OldHome: React.FC<React.PropsWithChildren> = ({ children }) => (
         </div>
       </div>
     </section>
-    <section>
-      <div className="site-section" id="call-section">
-        <div className="container alalalala">
-          <div className="row ">
-            <div className="col-12 mb-5 position-relative">
-              <h2 className="section-title">
-                Jdeme spolu zvýšit ROI & CEX?
-              </h2>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    <Call />
     <footer className="site-section bg-light footer">
       <div className="container">
         <div className="row mb-5">
