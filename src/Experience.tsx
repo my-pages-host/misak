@@ -133,9 +133,6 @@ export const Experience: React.FC = () => (
                   <p><strong>Konstruktivní typ</strong> se silnou touhou vylepšovat dosavadní
                     koncepty, které jsou
                     logicky děravé nebo časově neefektivní.</p>
-                  <p><strong>Konektor</strong> s přirozeným citem identifikovat, stimulovat a propojit
-                    pracovní
-                    potenciál jak mezi jednotlivci, tak i vůči novým příležitostem.</p>
                   <p><strong>Analytický typ</strong>, který rád sází na dobře promyšlenou strategii.
                   </p>
                   <p><strong>Orientovaný na týmovou soudržnost</strong> a uctivé mezilidské vztahy.
