@@ -16,7 +16,7 @@ export const Experience: React.FC = () => (
                 <p>2015-2020 | Spoluzakladelka & Ředitelka společnosti LidskaSila s.r.o., Expert na
                   služby pro domácnost. </p>
                 <p><strong>Redukce celopodnikových nákladů o 57 % & zvýšení ziskovosti o 32&nbsp;%
-                  meziročně (2018 - 2019) </strong></p>
+                  meziročně (2018-2019) </strong></p>
 
                 <ul>
                   <li>
@@ -36,17 +36,14 @@ export const Experience: React.FC = () => (
                 <ul>
                   <li>Zvýšení LTV z 33,33&nbsp;% na <strong>62,50&nbsp;%</strong> meziročně (graf&nbsp;3)
                   </li>
-                  <li>Růst opakovatelnosti nákupu předplatitelů z 67,85&nbsp;% na
-                    <strong>81,15&nbsp;%</strong> meziročně (graf&nbsp;13)
-                  </li>
+                  <li>Růst opakovatelnosti nákupu předplatitelů z 67,85&nbsp;% na <strong>81,15&nbsp;%</strong> meziročně (graf&nbsp;13)</li>
                   <li>Zvýšení "Average paid order value by year" o <strong>46,15&nbsp;%</strong>
                     meziročně (graf &nbsp;9)
                   </li>
                   <li>
                     Zvýšení "Average hour rate by year" o <strong>60&nbsp;%</strong> meziročně (graf&nbsp;10)
                   </li>
-                  <li>Zvýšení "Average duration of customer subscription" o <strong>50&nbsp;%</strong>
-                    meročně (graf&nbsp;8)
+                  <li>Zvýšení "Average duration of customer subscription" o <strong>50&nbsp;%</strong> meziročně (graf&nbsp;8)
                   </li>
                   <li>Udržení poměru <strong>90&nbsp;% pravidelných předplatitelů </strong> služby k
                     10&nbsp;% jednorázových objednávek (graf&nbsp;2)
@@ -89,8 +86,8 @@ export const Experience: React.FC = () => (
                   <li>Růst opakovatelnosti nákupu předplatitelů z 67,85&nbsp;% na
                     <strong>81,15&nbsp;%</strong> meziročně (graf&nbsp;13)
                   </li>
-                  <li>Zvýšení "Average paid order value by year" o <strong>46,15&nbsp;%</strong>
-                    meziročně (graf &nbsp;9)
+                  <li>
+                    Zvýšení "Average paid order value by year" o <strong>46,15&nbsp;%</strong> meziročně (graf&nbsp;9)
                   </li>
                   <li>
                     Zvýšení "Average hour rate by year" o <strong>60&nbsp;%</strong> meziročně (graf&nbsp;10)
