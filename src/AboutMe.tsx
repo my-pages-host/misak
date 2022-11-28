@@ -34,7 +34,7 @@ export const AboutMe: React.FC = () => (
             </p>
           </div>
           <div className="col-lg-4 order-3 order-lg-3">
-            <p><strong>VEDOUCÍ STYL (Liberální styl vedení) </strong></p>
+            <p><strong>Vedoucí styl</strong></p>
             <p><strong>Důraz na pochopení kritických milníků k naplnění ROI</strong> pro jejich
               dodání ve stanoveném čase, kvalitě a rozsahu.</p>
             <p><strong>Podporující otevřený dialog</strong> napříč týmem, kde se cení
