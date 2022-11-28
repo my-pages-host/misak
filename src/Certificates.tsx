@@ -54,6 +54,26 @@ export const Certificates: React.FC = () => {
               </div>
             </div>
           </div>
+          <div className={colCardStyle}>
+            <div className="card">
+              <div className="card-body">
+                <h4 className="card-title">Agile Safe</h4>
+                <p className="card-text">
+                  Instead of brushing hot soy sauce with chicken, use one container buttermilk and nine and a half teaspoons woodruff soup pot.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className={colCardStyle}>
+            <div className="card">
+              <div className="card-body">
+                <h4 className="card-title">Coaching</h4>
+                <p className="card-text">
+                  All children like crushed apples in bourbon and green curry.
+                </p>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>
