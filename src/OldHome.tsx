@@ -3,11 +3,13 @@ import React from "react";
 import { CanDo } from "./CanDo";
 import { Call } from "./Call";
 import { Experience } from "./Experience";
+import { AboutMe } from "./AboutMe";
 
 export const OldHome: React.FC<React.PropsWithChildren> = ({ children }) => (
   <>
     {children}
     <CanDo />
+    <AboutMe />
     <Experience />
     <Call/>
     <footer className="site-section bg-light footer">
