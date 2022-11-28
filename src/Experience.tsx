@@ -1,6 +1,5 @@
 /* eslint-disable */
 import React from "react";
-import { Certifactes } from "./Certifactes";
 
 export const Experience: React.FC = () => (
   <section>
@@ -38,7 +37,8 @@ export const Experience: React.FC = () => (
                     Zvýšení LTV z 33,33&nbsp;% na <strong>62,50&nbsp;%</strong> meziročně (graf&nbsp;3)
                   </li>
                   <li>
-                    Růst opakovatelnosti nákupu předplatitelů z 67,85&nbsp;% na <strong>81,15&nbsp;%</strong> meziročně (graf&nbsp;13)
+                    Růst opakovatelnosti nákupu předplatitelů z 67,85&nbsp;% na <strong>81,15&nbsp;%</strong> meziročně
+                    (graf&nbsp;13)
                   </li>
                   <li>
                     Zvýšení "Average paid order value by year" o <strong>46,15&nbsp;%</strong> meziročně (graf &nbsp;9)
@@ -47,10 +47,12 @@ export const Experience: React.FC = () => (
                     Zvýšení "Average hour rate by year" o <strong>60&nbsp;%</strong> meziročně (graf&nbsp;10)
                   </li>
                   <li>
-                    Zvýšení "Average duration of customer subscription" o <strong>50&nbsp;%</strong> meziročně (graf&nbsp;8)
+                    Zvýšení "Average duration of customer subscription" o <strong>50&nbsp;%</strong> meziročně
+                    (graf&nbsp;8)
                   </li>
                   <li>
-                    Udržení poměru <strong>90&nbsp;% pravidelných předplatitelů </strong> služby k 10&nbsp;% jednorázových objednávek (graf&nbsp;2)
+                    Udržení poměru <strong>90&nbsp;% pravidelných předplatitelů </strong> služby k 10&nbsp;%
+                    jednorázových objednávek (graf&nbsp;2)
                   </li>
                 </ul>
 
@@ -111,7 +113,6 @@ export const Experience: React.FC = () => (
             </div>
           </div>
         </div>
-        <Certifactes />
       </div>
     </div>
   </section>

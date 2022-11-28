@@ -1,6 +1,5 @@
 /* eslint-disable */
 import React from "react";
-import { Certifactes } from "./Certifactes";
 
 export const AboutMe: React.FC = () => (
   <section>

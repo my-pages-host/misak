@@ -4,13 +4,15 @@ import { CanDo } from "./CanDo";
 import { Call } from "./Call";
 import { Experience } from "./Experience";
 import { AboutMe } from "./AboutMe";
+import { Certificates } from "./Certificates";
 
 export const OldHome: React.FC<React.PropsWithChildren> = ({ children }) => (
   <>
     {children}
-    <CanDo />
-    <AboutMe />
-    <Experience />
+    <CanDo/>
+    <AboutMe/>
+    <Experience/>
+    <Certificates/>
     <Call/>
     <footer className="site-section bg-light footer">
       <div className="container">
