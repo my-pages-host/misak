@@ -15,9 +15,12 @@ export const AboutMe: React.FC = () => (
               intenzivní a vytrvalé.</p>
           </div>
           <div className="col-lg-4 order-1 order-lg-2 mb-4 mb-lg-0">
-            <div className="bg-light pt-5">
-              <img src="misa-2.jpg"
-                   alt="Image" className="img-fluid"/>
+            <div className="pt-5">
+              <img
+                src="misa-2.jpg"
+                alt="Image"
+                className="img-fluid"
+              />
             </div>
           </div>
           <div className="col-lg-4 order-2 order-lg-1">
