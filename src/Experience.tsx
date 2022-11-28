@@ -1,5 +1,6 @@
 /* eslint-disable */
 import React from "react";
+import { Certifactes } from "./Certifactes";
 
 export const Experience: React.FC = () => (
   <section>
@@ -157,6 +158,7 @@ export const Experience: React.FC = () => (
             </div>
           </div>
         </div>
+        <Certifactes />
       </div>
     </div>
   </section>
