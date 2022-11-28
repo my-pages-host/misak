@@ -128,7 +128,7 @@ export const Experience: React.FC = () => (
                 </div>
                 <div className="col-lg-4 order-2 order-lg-1">
                   <p><strong>ROLE V TÝMU</strong></p>
-                  <p><strong>Řešitel komplexních prblémů</strong>, kde je mnoho složitých souvislostí.
+                  <p><strong>Řešitel komplexních problémů</strong>, kde je mnoho složitých souvislostí.
                   </p>
                   <p><strong>Konstruktivní typ</strong> se silnou touhou vylepšovat dosavadní
                     koncepty, které jsou
