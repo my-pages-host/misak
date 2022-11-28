@@ -34,19 +34,23 @@ export const Experience: React.FC = () => (
                 <p><strong>V důsledku toho bylo dosaženo následující:</strong></p>
 
                 <ul>
-                  <li>Zvýšení LTV z 33,33&nbsp;% na <strong>62,50&nbsp;%</strong> meziročně (graf&nbsp;3)
+                  <li>
+                    Zvýšení LTV z 33,33&nbsp;% na <strong>62,50&nbsp;%</strong> meziročně (graf&nbsp;3)
                   </li>
-                  <li>Růst opakovatelnosti nákupu předplatitelů z 67,85&nbsp;% na <strong>81,15&nbsp;%</strong> meziročně (graf&nbsp;13)</li>
-                  <li>Zvýšení "Average paid order value by year" o <strong>46,15&nbsp;%</strong>
-                    meziročně (graf &nbsp;9)
+                  <li>
+                    Růst opakovatelnosti nákupu předplatitelů z 67,85&nbsp;% na <strong>81,15&nbsp;%</strong> meziročně (graf&nbsp;13)
+                  </li>
+                  <li>
+                    Zvýšení "Average paid order value by year" o <strong>46,15&nbsp;%</strong> meziročně (graf &nbsp;9)
                   </li>
                   <li>
                     Zvýšení "Average hour rate by year" o <strong>60&nbsp;%</strong> meziročně (graf&nbsp;10)
                   </li>
-                  <li>Zvýšení "Average duration of customer subscription" o <strong>50&nbsp;%</strong> meziročně (graf&nbsp;8)
+                  <li>
+                    Zvýšení "Average duration of customer subscription" o <strong>50&nbsp;%</strong> meziročně (graf&nbsp;8)
                   </li>
-                  <li>Udržení poměru <strong>90&nbsp;% pravidelných předplatitelů </strong> služby k
-                    10&nbsp;% jednorázových objednávek (graf&nbsp;2)
+                  <li>
+                    Udržení poměru <strong>90&nbsp;% pravidelných předplatitelů </strong> služby k 10&nbsp;% jednorázových objednávek (graf&nbsp;2)
                   </li>
                 </ul>
 
