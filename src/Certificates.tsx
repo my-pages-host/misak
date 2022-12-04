@@ -57,9 +57,9 @@ export const Certificates: React.FC = () => {
           <div className={colCardStyle}>
             <div className="card">
               <div className="card-body">
-                <h4 className="card-title">Agile Safe</h4>
+                <h4 className="card-title">Agile Safe – Product owner</h4>
                 <p className="card-text">
-                  Instead of brushing hot soy sauce with chicken, use one container buttermilk and nine and a half teaspoons woodruff soup pot.
+                  Product owner je člen agilního týmu. Vlastní týmový backlog, definuje cíle sprintu a prioritizuje požadavky pro vývoj.
                 </p>
               </div>
             </div>
