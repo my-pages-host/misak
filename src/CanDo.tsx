@@ -50,7 +50,7 @@ export const CanDo: React.FC = () => {
               </div>
               <div className="col">
                 <strong>Vstupy TODO</strong>
-                <ul>
+                <ul className={styles.list}>
                   <li>Představit vizi</li>
                   <li>Vyjasnit prvotní nástřel ročních KPI</li>
                   <li>Definovat časový rámec</li>
@@ -79,7 +79,8 @@ export const CanDo: React.FC = () => {
                   logicky děravé nebo časově neefektivní.</p>
                 <p><strong>Analytický typ</strong>, který rád sází na dobře promyšlenou strategii.
                 </p>
-                <p><strong>Orientovaný na týmovou soudržnost</strong> a uctivé mezilidské vztahy.
+                <p>
+                  <strong>Orientovaná na týmovou soudržnost</strong>, ale nejsem kompatibilní s neproaktivními "diskutéry"
                 </p>
               </div>
               <div className="col-lg-4 order-3 order-lg-3">
