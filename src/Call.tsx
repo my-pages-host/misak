@@ -9,7 +9,7 @@ export const Call = () => {
         <div className="row ">
           <div className="col-12 mb-5 position-relative">
             <h2 className={clsx(styles.title, "text-center", "text-white")}>
-              Jdeme spolu zvýšit ROI & CEX?
+              Jdeme spolu zvýšit ROI&nbsp;&&nbsp;CEX?
             </h2>
           </div>
         </div>
