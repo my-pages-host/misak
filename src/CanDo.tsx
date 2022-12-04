@@ -1,5 +1,6 @@
 /* eslint-disable */
 import React from "react";
+import styles from "./CanDo.module.scss";
 
 export const CanDo: React.FC = () => {
   const colCardStyle = 'col-12 col-lg-6';
@@ -8,9 +9,15 @@ export const CanDo: React.FC = () => {
       <section>
         <div className="site-section" id="services-section">
           <div className="container">
+            <h2 className="section-title">Co pro Váš byznys můžu udělat</h2>
             <div className="row">
-              <div className="col col-lg-8 col-xl-7 col-xxl-6 mb-5 position-relative">
-                <h2 className="section-title">Co pro Váš byznys můžu udělat</h2>
+              <div className="col-12 col-lg-8 col-xl-7 col-xxl-6 mb-5">
+                <p>Hledám společnost (projekt) s ambiciózním a dobře komunikovaným business záměrem,
+                  silným lídrem v
+                  čele a přátelským kolektivem. Když se to všechno takto sejde, mé pracovní
+                  odhodlání je velmi
+                  intenzivní a vytrvalé.</p>
+
                 <p>
                   S velkým nadšením bych ráda vložila své schopnosti, dovednosti a znalosti do služeb projektů,
                   které vyvíjejí technologii s cílem plně automatizovat lidské procesy a zefektivnit,
@@ -22,11 +29,35 @@ export const CanDo: React.FC = () => {
                   a identifikace dalších klíčových úprav s ohledem na výsledné metriky.
                 </p>
 
-                <p>Hledám společnost (projekt) s ambiciózním a dobře komunikovaným business záměrem,
-                  silným lídrem v
-                  čele a přátelským kolektivem. Když se to všechno takto sejde, mé pracovní
-                  odhodlání je velmi
-                  intenzivní a vytrvalé.</p>
+              </div>
+            </div>
+            <div className="row mb-5">
+              <div className="col">
+                <strong>Konkrétní činnosti za které ráda příjmu odpovědnost</strong>
+                <ul className={styles.list}>
+                  <li>Rozpracování vize programu do vize produktů/procesů</li>
+                  <li>Sestavení metrik per produkt/proces</li>
+                  <li>Průběžná tvorba reportů/kvartální plánování</li>
+                  <li>Sběr VOC (voice of customer) a sestavení potřebných metrik</li>
+                  <li>Nastavení standardů dokumentace (Procesní mapování, RACI)</li>
+                  <li>Tvorba procesní architektury</li>
+                  <li>Řízení workshopů pro zákazníky</li>
+                  <li>Řízení přípravy PoC (Proof of Concept)</li>
+                  <li>Řízení a realizace marketingové strategie STDC</li>
+                  <li>Vyškolení vlastníků procesu</li>
+                  <li>Dlouhodobé sledování NPS produktu/procesu z pohledu zákazníka</li>
+                </ul>
+              </div>
+              <div className="col">
+                <strong>Vstupy TODO</strong>
+                <ul>
+                  <li>Představit vizi</li>
+                  <li>Vyjasnit prvotní nástřel ročních KPI</li>
+                  <li>Definovat časový rámec</li>
+                  <li>Vyjasnit předpokládaný rozpočet</li>
+                  <li>Zajistit potřebné pravomoci</li>
+                  <li>Garantovat potřebnou alokaci týmu</li>
+                </ul>
               </div>
             </div>
             <div className="row">
