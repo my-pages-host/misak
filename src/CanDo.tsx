@@ -40,7 +40,7 @@ export const CanDo: React.FC = () => {
                 </div>
               </div>
               <div className="col-lg-4 order-2 order-lg-1">
-                <p><strong>Role v týmu</strong></p>
+                <h3>Role v týmu</h3>
                 <p><strong>Řešitel komplexních problémů</strong>, kde je mnoho složitých souvislostí.
                 </p>
                 <p><strong>Konstruktivní typ</strong> se silnou touhou vylepšovat dosavadní
@@ -52,7 +52,7 @@ export const CanDo: React.FC = () => {
                 </p>
               </div>
               <div className="col-lg-4 order-3 order-lg-3">
-                <p><strong>Vedoucí styl</strong></p>
+                <h3>Vedoucí styl</h3>
                 <p><strong>Důraz na pochopení kritických milníků k naplnění ROI</strong> pro jejich
                   dodání ve stanoveném čase, kvalitě a rozsahu.</p>
                 <p><strong>Podporující otevřený dialog</strong> napříč týmem, kde se cení
