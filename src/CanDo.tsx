@@ -10,7 +10,7 @@ export const CanDo: React.FC = () => {
           <div className="container">
             <div className="row">
               <div className="col col-lg-8 col-xl-7 col-xxl-6 mb-5 position-relative">
-                <h3 className="fw-bold">Co pro Váš byznys můžu udělat</h3>
+                <h2 className="section-title">Co pro Váš byznys můžu udělat</h2>
                 <p>
                   S velkým nadšením bych ráda vložila své schopnosti, dovednosti a znalosti do služeb projektů,
                   které vyvíjejí technologii s cílem plně automatizovat lidské procesy a zefektivnit,
