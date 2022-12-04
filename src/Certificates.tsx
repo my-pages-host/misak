@@ -67,9 +67,10 @@ export const Certificates: React.FC = () => {
           <div className={colCardStyle}>
             <div className="card">
               <div className="card-body">
-                <h4 className="card-title">Coaching</h4>
+                <h4 className="card-title">Certifikace individuálního kouče</h4>
                 <p className="card-text">
-                  All children like crushed apples in bourbon and green curry.
+                  Associate Certified Coach (ACC) a Mezinárodní asociací koučů (ICF) jsou celosvětově uznávaným standardem při
+                  prokazování vysokého zájmu o osobnostní a profesní rozvoj s důrazem na etiku.
                 </p>
               </div>
             </div>
