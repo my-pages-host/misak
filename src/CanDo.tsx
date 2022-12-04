@@ -12,11 +12,7 @@ export const CanDo: React.FC = () => {
             <h2 className="section-title">Co pro Váš byznys můžu udělat</h2>
             <div className="row">
               <div className="col-12 col-lg-8 col-xl-7 col-xxl-6 mb-5">
-                <p>Hledám společnost (projekt) s ambiciózním a dobře komunikovaným business záměrem,
-                  silným lídrem v
-                  čele a přátelským kolektivem. Když se to všechno takto sejde, mé pracovní
-                  odhodlání je velmi
-                  intenzivní a vytrvalé.</p>
+                <p>Hledám společnost (projekt) s ambiciózním business záměrem, silným lídrem v čele a proaktivním týmem, který má proklientský mindset.</p>
 
                 <p>
                   S velkým nadšením bych ráda vložila své schopnosti, dovednosti a znalosti do služeb projektů,
@@ -49,7 +45,7 @@ export const CanDo: React.FC = () => {
                 </ul>
               </div>
               <div className="col">
-                <strong>Vstupy TODO</strong>
+                <strong>Co k tomu potřebuji</strong>
                 <ul className={styles.list}>
                   <li>Představit vizi</li>
                   <li>Vyjasnit prvotní nástřel ročních KPI</li>
