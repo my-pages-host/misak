@@ -7,7 +7,7 @@ export const Experience: React.FC = () => (
       <div className="container">
         <h2 className="section-title text-center mb-5">Experience</h2>
         <div className="row">
-          <div className="col-12 col-lg-6 mb-4">
+          <div className="col-12 col-lg-6">
             <div className="card flex-row">
               <div className="service-number mr-4 d-none d-xl-block"><span className="icon-style"></span></div>
               <div className="service-about">
@@ -63,7 +63,7 @@ export const Experience: React.FC = () => (
               </div>
             </div>
           </div>
-          <div className="col-12 col-xl-6">
+          <div className="col-12 col-lg-6">
             <div className="card flex-row">
               <div className="service-number mr-4 d-none d-xl-block"><span className="icon-business_center"></span>
               </div>
