@@ -9,7 +9,7 @@ export const CanDo: React.FC = () => {
       <section>
         <div className="site-section" id="services-section">
           <div className="container">
-            <h2 className="section-title">Co pro Váš byznys můžu udělat</h2>
+            <h2 className="section-title highlighted-title">Co pro Váš byznys můžu udělat</h2>
             <div className="row">
               <div className="col-12 col-lg-8 col-xl-7 col-xxl-6 mb-5">
                 <p>Hledám společnost (projekt) s ambiciózním business záměrem, silným lídrem v čele a proaktivním týmem, který má proklientský mindset.</p>

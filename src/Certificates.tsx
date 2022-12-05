@@ -7,7 +7,7 @@ export const Certificates: React.FC = () => {
   return (
     <section className="site-section" id="services-section">
       <div className="container">
-        <h2 className="section-title text-center mb-5">Certifikace</h2>
+        <h2 className="section-title highlighted-title text-center mb-5">Certifikace</h2>
         <div className="row" style={{ gap: '1.5rem 0' }}>
           <div className={colCardStyle}>
             <div className="card">

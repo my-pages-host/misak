@@ -431,25 +431,6 @@ body:after {
     padding-bottom: 20px
 }
 
-.section-title:after {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    height: 2px;
-    background: var(--dior);
-    width: 50px
-}
-
-.section-title.text-center:after {
-    left: 50%;
-    transform: translateX(-50%)
-}
-
-.section-title.text-center:after {
-    background: #fff
-}
-
 .card {
     transition: .3s all ease-in-out;
 }
