@@ -9,7 +9,7 @@ export const Experience: React.FC = () => (
         <div className="row">
           <div className="col-12 col-lg-6">
             <div className="card flex-row">
-              <div className="service-number mr-4 d-none d-xl-block"><span className="icon-style"></span></div>
+              <div className="service-number mr-4 d-none d-xl-block"><span className="icon-business_center"></span></div>
               <div className="service-about">
                 <h3><strong>Business Owner</strong></h3>
                 <p>2015-2020 | Spoluzakladelka & Ředitelka společnosti LidskaSila s.r.o., Expert na
