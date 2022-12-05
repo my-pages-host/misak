@@ -14,15 +14,18 @@ export const CanDo: React.FC = () => {
               <div className="col-12 col-lg-8 col-xl-7 col-xxl-6 mb-5">
                 <p>Hledám společnost (projekt) s ambiciózním business záměrem, silným lídrem v čele a proaktivním týmem, který má proklientský mindset.</p>
 
+                <h3>Digitalizace procesu</h3>
                 <p>
-                  S velkým nadšením bych ráda vložila své schopnosti, dovednosti a znalosti do služeb projektů,
-                  které vyvíjejí technologii s cílem plně automatizovat lidské procesy a zefektivnit,
+                  S velkým nadšením vložím své schopnosti, dovednosti a znalosti do služeb projektů,
+                  které vyvíjejí technologii s cílem proces zefektivnit,
                   operativně koordinovat nebo monitorovat koncovou kvalitu a bezpečnost.
                 </p>
+                <h3>Komplexní dodávka vyžadující multitasking</h3>
                 <p>
-                  A také do projektů, kde je zapotřebí vymýšlet koncepty úplně nové nebo zefektivnit
-                  ty stávající a potřebné změny rovnou implementovat v praxi, včetně následného monitoringu
-                  a identifikace dalších klíčových úprav s ohledem na výsledné metriky.
+                  Miluji práci na komplexním projektu, kde je potřeba udržet přehled Top-Down.
+                  Takové příležitosti vyhledávám, protože mě baví vymýšlet koncepty úplně nové nebo
+                  zefektivnit ty stávající a potřebné změny rovnou implementovat v praxi,
+                  včetně následného monitoringu a identifikace dalších klíčových úprav s ohledem na výsledné metriky.
                 </p>
 
               </div>
