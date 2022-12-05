@@ -65,7 +65,7 @@ export const CanDo: React.FC = () => {
                   <img
                     src="misa-2.jpg"
                     alt="Image"
-                    className="img-fluid"
+                    className="img-fluid rounded"
                   />
                 </div>
               </div>
