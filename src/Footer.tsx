@@ -1,17 +1,7 @@
-/* eslint-disable */
 import React from "react";
-import { CanDo } from "./CanDo";
-import { Call } from "./Call";
-import { Experience } from "./Experience";
-import { Certificates } from "./Certificates";
 
-export const OldHome: React.FC<React.PropsWithChildren> = ({ children }) => (
+export const Footer: React.FC = () => (
   <>
-    {children}
-    <CanDo/>
-    <Experience/>
-    <Certificates/>
-    <Call/>
     <footer className="site-section bg-light footer">
       <div className="container">
         <div className="row mb-5">

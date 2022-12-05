@@ -1,7 +1,6 @@
 import Head from "next/head";
-import {OldHome} from "@x/x/OldHome";
+import { All } from "../src/All";
 import styles from "../styles/Home.module.css";
-import {Cover} from "../src/Cover";
 
 export default function Home() {
   return (
@@ -14,9 +13,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <OldHome>
-          <Cover />
-        </OldHome>
+        <All />
       </main>
     </div>
   );
