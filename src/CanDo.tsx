@@ -71,15 +71,14 @@ export const CanDo: React.FC = () => {
               </div>
               <div className="col-lg-4 order-2 order-lg-1">
                 <h3>Role v týmu</h3>
-                <p><strong>Řešitel komplexních problémů</strong>, kde je mnoho složitých souvislostí.
-                </p>
                 <p><strong>Konstruktivní typ</strong> se silnou touhou vylepšovat dosavadní
                   koncepty, které jsou
                   logicky děravé nebo časově neefektivní.</p>
-                <p><strong>Analytický typ</strong>, který rád sází na dobře promyšlenou strategii.
-                </p>
+                <p><strong>Analytický typ</strong>, který rád sází na dobře promyšlenou strategii.</p>
+                <p><strong>Řešitel komplexních problémů</strong>.</p>
                 <p>
-                  <strong>Orientovaná na týmovou soudržnost</strong>, ale nejsem kompatibilní s neproaktivními "diskutéry"
+                  <strong>Orientovaná na týmovou soudržnost</strong>, ale nejsem kompatibilní s neproaktivními "diskutéry",
+                  kteří si pracovní dobu chodí "odsedět" a nejsou ochotni přijmout osobní odpovědnost za kvalitu výsledné práce.
                 </p>
               </div>
               <div className="col-lg-4 order-3 order-lg-3">
