@@ -77,8 +77,8 @@ export const CanDo: React.FC = () => {
                 <p><strong>Analytický typ</strong>, který rád sází na dobře promyšlenou strategii.</p>
                 <p><strong>Řešitel komplexních problémů</strong>.</p>
                 <p>
-                  <strong>Orientovaná na týmovou soudržnost</strong>, ale nejsem kompatibilní s neproaktivními "diskutéry",
-                  kteří si pracovní dobu chodí "odsedět" a nejsou ochotni přijmout osobní odpovědnost za kvalitu výsledné práce.
+                  <strong>Orientovaná na týmovou soudržnost</strong>.
+                  Velmi dobře se mi pracuje v týmu, který má dynamické tempo, prozákaznický mindset a organizovaný přístup k práci..
                 </p>
               </div>
               <div className="col-lg-4 order-3 order-lg-3">
