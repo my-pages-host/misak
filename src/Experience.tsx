@@ -70,44 +70,31 @@ export const Experience: React.FC = () => (
               <div className="service-about">
                 <h3><strong>Product owner</strong></h3>
                 <p>2021-now | CETIN a.s., Czech telecommunications company that is part of PPF Group</p>
-                <p><strong>Redukce celopodnikových nákladů o 57 % & zvýšení ziskovosti o 32&nbsp;%
-                  meziročně (2018 - 2019) </strong></p>
+                <p><strong>Agenda spojená s řízením spritové dodávky</strong></p>
                 <ul>
                   <li>
-                    Business process management and measurement z pohledu návratnosti ROI
+                    Tvorba a správa spritového backlogu
                   </li>
-                  <li>Business process architecture development z pohledu udržitelnosti pravidelného
-                    subscription
+                  <li>
+                    Prioritizace požadavků na vývoj.
                   </li>
-                  <li>Rozšíření portfólia o vstup sektoru B2B- Airbnb</li>
-                  <li>In-house development CRM systému pro řízení online order forms, customer support
-                    tickets, accounting documents and capacity of workers&nbsp;etc.
-                  </li>
+                  <li>Definice cílů sprintu.</li>
+                  <li>Definice metrik.</li>
                 </ul>
-                <p><strong>V důsledku toho bylo dosaženo následující:</strong></p>
+
+                <p><strong>Agenda spojená s řízením produktu</strong></p>
 
                 <ul>
-                  <li>Zvýšení LTV z 33,33&nbsp;% na <strong>62,50&nbsp;%</strong> meziročně (graf&nbsp;3)
-                  </li>
-                  <li>Růst opakovatelnosti nákupu předplatitelů z 67,85&nbsp;% na
-                    <strong>81,15&nbsp;%</strong> meziročně (graf&nbsp;13)
-                  </li>
-                  <li>
-                    Zvýšení "Average paid order value by year" o <strong>46,15&nbsp;%</strong> meziročně (graf&nbsp;9)
-                  </li>
-                  <li>
-                    Zvýšení "Average hour rate by year" o <strong>60&nbsp;%</strong> meziročně (graf&nbsp;10)
-                  </li>
-                  <li>Zvýšení "Average duration of customer subscription" o <strong>50&nbsp;%</strong>
-                    meročně (graf&nbsp;8)
-                  </li>
-                  <li>Udržení poměru <strong>90&nbsp;% pravidelných předplatitelů </strong> služby k
-                    10&nbsp;% jednorázových objednávek (graf&nbsp;2)
-                  </li>
+                  <li>Definice kvartálních metrik</li>
+                  <li>Kvartální plánování a prioritizace</li>
+                  <li>Redefinice byznys požadavků RFP</li>
+                  <li>Řízení PoC</li>
+                  <li>Vyhodnocení výběrového řízení dodavatele softwaru z pohledu byznys požadavků</li>
+                  <li>Příprava podkladů pro finanční kontroling pro vyhodnocení ROI</li>
                 </ul>
 
                 <p>
-                  Důvod ukončení: v Q1 2023 dokončení vývoje sw GIMS a také Rollout i certifikace byznys uživatelů.
+                  Důvod ukončení: v Q1 2023 dokončení SW vývoje a také rollout i certifikace byznys uživatelů.
                 </p>
               </div>
             </div>
