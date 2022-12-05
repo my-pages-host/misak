@@ -1,0 +1,22 @@
+.certificates {
+  :global {
+    .card-title {
+      position: relative;
+    }
+
+    .card-title:after {
+      content: "";
+      position: absolute;
+      left: -1.6rem;
+      top: calc(50% - 0.5rem);
+      width: 1rem;
+      height: 1rem;
+      line-height: 1rem;
+      border-radius: 50%;
+      background: var(--dior);
+      display: block;
+      color: #fff;
+    }
+  }
+}
+
