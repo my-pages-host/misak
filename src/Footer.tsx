@@ -1,15 +1,17 @@
 import React from "react";
+import styles from "./Footer.module.scss";
+import clsx from "clsx";
 
 export const Footer: React.FC = () => (
   <>
     <footer className="site-section bg-light footer">
-      <div className="container">
-        <div className="row mb-5">
-          <div className="col-12 col-md-3">
+      <div className={clsx('container', styles.container)}>
+        <div className="row">
+          <div className="col-12 col-md-6">
             <h3 className="footer-title">Working area</h3>
             <p><span className="d-inline-block d-md-block">Prague, Czech Republic</span></p>
           </div>
-          <div className="col-12 col-md-9">
+          <div className="col-12 col-md-6">
             <h3 className="footer-title">Let&apos;s chat on</h3>
             <p>
               <span className="d-inline-block d-md-block">
