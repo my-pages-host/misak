@@ -94,7 +94,7 @@ export const Experience: React.FC = () => (
                 </ul>
 
                 <p>
-                  Důvod ukončení: v Q1 2023 dokončení SW vývoje a také rollout i certifikace byznys uživatelů.
+                  Důvod ukončení: v Q4 2022 dokončení SW vývoje a také rollout i certifikace byznys uživatelů.
                 </p>
               </div>
             </div>

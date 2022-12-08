@@ -18,14 +18,14 @@ export const CanDo: React.FC = () => {
                 <p>
                   S velkým nadšením vložím své schopnosti, dovednosti a znalosti do služeb projektů,
                   které vyvíjejí technologii s cílem proces zefektivnit,
-                  operativně koordinovat nebo monitorovat koncovou kvalitu a bezpečnost.
+                  zrychlit průchodnost, zkrátit waiting time s cílem maximalizovat CEX & ROI.
                 </p>
                 <strong>Komplexní dodávka vyžadující multitasking</strong>
                 <p>
                   Miluji práci na komplexním projektu, kde je potřeba udržet přehled Top-Down.
                   Takové příležitosti vyhledávám, protože mě baví vymýšlet koncepty úplně nové nebo
                   zefektivnit ty stávající a potřebné změny rovnou implementovat v praxi,
-                  včetně následného monitoringu a identifikace dalších klíčových úprav s ohledem na výsledné metriky.
+                  včetně následného vyškolení nových vlastníků, roadmapy akčních kroků pro dlouhodobou udržitelnost.
                 </p>
 
               </div>
