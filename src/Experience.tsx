@@ -12,8 +12,8 @@ export const Experience: React.FC = () => (
               <div className="service-number mr-4 d-none d-xl-block"><span className="icon-business_center"></span></div>
               <div className="service-about">
                 <h3><strong>Business Owner</strong></h3>
-                <p>2015-2020 | Spoluzakladelka & Ředitelka společnosti LidskaSila s.r.o., Expert na
-                  služby pro domácnost. </p>
+                <p>2015-2020 | Spoluzakladatelka & Ředitelka společnosti LidskaSila s.r.o.,
+                  Expert na služby pro domácnost. </p>
                 <p><strong>Redukce celopodnikových nákladů o 57 % & zvýšení ziskovosti o 32&nbsp;%
                   meziročně (2018-2019) </strong></p>
 
@@ -24,41 +24,38 @@ export const Experience: React.FC = () => (
                   <li>Business process architecture development z pohledu udržitelnosti pravidelného
                     subscription
                   </li>
-                  <li>Rozšíření portfólia o vstup sektoru B2B- Airbnb</li>
-                  <li>In-house development CRM systému pro řízení online order forms, customer support
-                    tickets, accounting documents and capacity of workers&nbsp;etc.
-                  </li>
+                  <li>Rozšíření portfólia o vstup do sektoru B2B- Airbnb</li>
+                  <li>In-house development CRM systému pro řízení online objednávek,
+                    podpory zákazníků, účetních dokumentů a kapacity zaměstnanců atd.</li>
                 </ul>
 
-                <p><strong>V důsledku toho bylo dosaženo následující:</strong></p>
+                <p><strong>V důsledku toho bylo dosaženo následujících výsledků:</strong></p>
 
                 <ul>
                   <li>
-                    Zvýšení LTV z 33,33&nbsp;% na <strong>62,50&nbsp;%</strong> meziročně (graf&nbsp;3)
+                    Zvýšení LTV z 33,33&nbsp;% na <strong>62,50&nbsp;%</strong> meziročně
                   </li>
                   <li>
                     Růst opakovatelnosti nákupu předplatitelů z 67,85&nbsp;% na <strong>81,15&nbsp;%</strong> meziročně
-                    (graf&nbsp;13)
                   </li>
                   <li>
-                    Zvýšení "Average paid order value by year" o <strong>46,15&nbsp;%</strong> meziročně (graf &nbsp;9)
+                    Zvýšení "Průměrné hodnoty placených objednávek za rok" o <strong>46,15&nbsp;%</strong> meziročně
                   </li>
                   <li>
-                    Zvýšení "Average hour rate by year" o <strong>60&nbsp;%</strong> meziročně (graf&nbsp;10)
+                    Zvýšení "Průměrné hodinové sazby za rok" o <strong>60&nbsp;%</strong> meziročně
                   </li>
                   <li>
-                    Zvýšení "Average duration of customer subscription" o <strong>50&nbsp;%</strong> meziročně
-                    (graf&nbsp;8)
+                    Zvýšení "Průměrná doba trvání předplatného zákazníka" o <strong>50&nbsp;%</strong> meziročně
                   </li>
                   <li>
                     Udržení poměru <strong>90&nbsp;% pravidelných předplatitelů </strong> služby k 10&nbsp;%
-                    jednorázových objednávek (graf&nbsp;2)
+                    jednorázových objednávek
                   </li>
                 </ul>
 
                 <p>
                   Důvod ukončení: nebyla potvrzena hypotéza o velikosti a připravenosti trhu úklidu B2C v ČR pro
-                  dosažení byznys hodnoty 300 mil do 5 let.
+                  dosažení byznys hodnoty 300 mil. do 5 let.
                 </p>
               </div>
             </div>
@@ -69,32 +66,32 @@ export const Experience: React.FC = () => (
               </div>
               <div className="service-about">
                 <h3><strong>Product owner</strong></h3>
-                <p>2021-now | CETIN a.s., Czech telecommunications company that is part of PPF Group</p>
-                <p><strong>Agenda spojená s řízením spritové dodávky</strong></p>
+                <p>2021-2022 | CETIN a.s., česká telekomunikační společnost, která je součástí skupiny PPF</p>
+                <p><strong>Agenda spojená s řízením sprintové dodávky:</strong></p>
                 <ul>
                   <li>
                     Tvorba a správa spritového backlogu
                   </li>
                   <li>
-                    Prioritizace požadavků na vývoj.
+                    Prioritizace požadavků na vývoj
                   </li>
-                  <li>Definice cílů sprintu.</li>
-                  <li>Definice metrik.</li>
+                  <li>Definice cílů sprintu</li>
+                  <li>Definice metrik</li>
                 </ul>
 
-                <p><strong>Agenda spojená s řízením produktu</strong></p>
+                <p><strong>Agenda spojená s řízením produktu:</strong></p>
 
                 <ul>
                   <li>Definice kvartálních metrik</li>
                   <li>Kvartální plánování a prioritizace</li>
                   <li>Redefinice byznys požadavků RFP</li>
-                  <li>Řízení PoC</li>
+                  <li>Řízení PoC (Proof of Concept)</li>
                   <li>Vyhodnocení výběrového řízení dodavatele softwaru z pohledu byznys požadavků</li>
                   <li>Příprava podkladů pro finanční kontroling pro vyhodnocení ROI</li>
                 </ul>
 
                 <p>
-                  Důvod ukončení: v Q4 2022 dokončení SW vývoje a také rollout i certifikace byznys uživatelů.
+                  Důvod ukončení: v Q4 2022 dokončení SW vývoje a také rollout a certifikace byznys uživatelů.
                 </p>
               </div>
             </div>

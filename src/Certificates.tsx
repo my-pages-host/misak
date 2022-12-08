@@ -17,7 +17,7 @@ export const Certificates: React.FC = () => {
                 <h4 className="card-title">Lean Six Sigma Green Belt</h4>
                 <p className="card-text">
                   Procesní zlepšování stávajících procesů z pohledu plýtvání zdrojů
-                  a odstranění nežádoucích defektů procesu z poholedu zákazníka.
+                  a odstranění nežádoucích defektů procesu z pohledu zákazníka.
                 </p>
               </div>
             </div>
@@ -27,8 +27,8 @@ export const Certificates: React.FC = () => {
               <div className="card-body">
                 <h4 className="card-title">DFSS - Design nových procesů</h4>
                 <p className="card-text">
-                  Tvorba nových konceptů s cílem najít úplně nový potenciál nebo řešení pro existující gapy
-                  stávajícího procesu.
+                  Tvorba nových konceptů s cílem najít úplně nový potenciál nebo
+                  řešení pro existující mezery stávajícího procesu.
                 </p>
               </div>
             </div>

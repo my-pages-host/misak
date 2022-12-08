@@ -12,19 +12,22 @@ export const CanDo: React.FC = () => {
             <h2 className="section-title highlighted-title">Co pro Váš byznys můžu udělat</h2>
             <div className="row">
               <div className="col-12 col-lg-8 col-xl-7 col-xxl-6 mb-5">
-                <p>Hledám společnost (projekt) s ambiciózním business záměrem, silným lídrem v čele a proaktivním týmem, který má proklientský mindset.</p>
+                <p>
+                  Hledám společnost (projekt) s ambiciózním business záměrem,
+                  silným lídrem v čele a proaktivním týmem, který má proklientský způsob myšlení.
+                </p>
 
                 <strong>Digitalizace procesu</strong>
                 <p>
                   S velkým nadšením vložím své schopnosti, dovednosti a znalosti do služeb projektů,
-                  které vyvíjejí technologii s cílem proces zefektivnit,
-                  zrychlit průchodnost, zkrátit waiting time s cílem maximalizovat CEX & ROI.
+                  které vyvíjejí technologii s cílem zefektivnit proces,
+                  zrychlit průchodnost, zkrátit čas čekání s cílem maximalizovat CEX & ROI.
                 </p>
                 <strong>Komplexní dodávka vyžadující multitasking</strong>
                 <p>
                   Miluji práci na komplexním projektu, kde je potřeba udržet přehled Top-Down.
                   Takové příležitosti vyhledávám, protože mě baví vymýšlet koncepty úplně nové nebo
-                  zefektivnit ty stávající a potřebné změny rovnou implementovat v praxi,
+                  zefektivnit stávající a potřebné změny rovnou implementovat v praxi,
                   včetně následného vyškolení nových vlastníků, roadmapy akčních kroků pro dlouhodobou udržitelnost.
                 </p>
 
@@ -35,10 +38,10 @@ export const CanDo: React.FC = () => {
                 <strong>Konkrétní činnosti za které ráda příjmu odpovědnost</strong>
                 <ul className={styles.list}>
                   <li>Rozpracování vize programu do vize produktů/procesů</li>
-                  <li>Sestavení metrik per produkt/proces</li>
+                  <li>Sestavení metrik pro každý produkt/proces</li>
                   <li>Průběžná tvorba reportů/kvartální plánování</li>
                   <li>Sběr VOC (voice of customer) a sestavení potřebných metrik</li>
-                  <li>Nastavení standardů dokumentace (Procesní mapování, RACI)</li>
+                  <li>Nastavení standardů dokumentace (procesní mapování, RACI)</li>
                   <li>Tvorba procesní architektury</li>
                   <li>Řízení workshopů pro zákazníky</li>
                   <li>Řízení přípravy PoC (Proof of Concept)</li>
@@ -78,7 +81,8 @@ export const CanDo: React.FC = () => {
                 <p><strong>Řešitel komplexních problémů</strong>.</p>
                 <p>
                   <strong>Orientovaná na týmovou soudržnost</strong>.
-                  Velmi dobře se mi pracuje v týmu, který má dynamické tempo, prozákaznický mindset a organizovaný přístup k práci..
+                  Velmi dobře se mi pracuje v týmu, který má dynamické tempo,
+                  prozákaznický způsob myšlení a organizovaný přístup k práci.
                 </p>
               </div>
               <div className="col-lg-4 order-3 order-lg-3">
