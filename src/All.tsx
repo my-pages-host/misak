@@ -1,5 +1,6 @@
 /* eslint-disable */
 import React from "react";
+import { AmI } from "./AmI";
 import { CanDo } from "./CanDo";
 import { Call } from "./Call";
 import { Experience } from "./Experience";
@@ -11,6 +12,7 @@ export const All: React.FC = () => (
   <>
     <Cover />
     <CanDo/>
+    <AmI/>
     <Experience/>
     <Certificates/>
     <Call/>
