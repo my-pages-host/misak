@@ -10,7 +10,7 @@ export const Footer: React.FC = () => (
           <div className="col-12 col-md-6">
             <p>Praha, CZ + remote</p>
             <p>Forma spolupráce IČO / HPP</p>
-            <p>Start spolupráce Q1 2023</p>
+            <p>Start Q1 2023</p>
             <p>CZ / ENG</p>
           </div>
           <div className="col-12 col-md-6">
