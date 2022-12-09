@@ -12,3 +12,14 @@
     background-position: 70% top;
   }
 }
+
+.textintro {
+  position: relative;
+  z-index: 2
+}
+
+@include media-breakpoint-down(xl) {
+  .textintro {
+    zoom: 0.85
+  }
+}
