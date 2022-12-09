@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Míša Podlipská</title>
+        <title>Michaela Podlipská</title>
         <meta name="description" content="Každý pracovní den chci zakončit s pocitem, že se zvýšila spokojenost zákazníka skrze přidanou hodnotu mojí práce." />
         <link rel="icon" href="/favicon.svg" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
