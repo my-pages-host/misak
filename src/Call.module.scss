@@ -18,5 +18,11 @@
 }
 
 .title {
-  font-size: 4rem;
+  font-size: 3rem;
+  max-width: 80%;
+  text-align: center;
+
+  @include media-breakpoint-up(lg) {
+    font-size: 4rem;
+  }
 }
