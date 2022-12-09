@@ -50,6 +50,7 @@ export const CanDo: React.FC = () => {
                   <li>Řízení a realizace marketingové strategie STDC</li>
                   <li>Vyškolení vlastníků procesu</li>
                   <li>Dlouhodobé sledování NPS produktu/procesu z pohledu zákazníka</li>
+                  <li>Digitalize procesů</li>
                 </ul>
               </div>
             </div>
