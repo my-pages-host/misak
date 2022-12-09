@@ -8,7 +8,7 @@ export const CanDo: React.FC = () => {
   return (
     <>
       <section>
-        <div className="site-section" id="services-section">
+        <div className="site-section" id="can-do">
           <div className="container">
             <h2 className="section-title highlighted-title text-center">Co pro Váš byznys můžu udělat</h2>
             <div className="row justify-content-center mb-5">

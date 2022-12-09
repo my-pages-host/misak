@@ -14,8 +14,9 @@ export const Cover = () =>
                 skrze
                 přidanou hodnotu mojí práce.</p>
               <p className="d-none d-md-block">
-                <a href="#services-section" className="btn smoothscroll btn-primary btn-lg">Co pro Váš byznys můžu
-                  udělat</a>
+                <a href="#can-do" className="btn smoothscroll btn-primary btn-lg">
+                  Co pro Váš byznys můžu udělat
+                </a>
               </p>
             </div>
           </div>

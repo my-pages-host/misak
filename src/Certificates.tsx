@@ -7,7 +7,7 @@ export const Certificates: React.FC = () => {
   const colCardStyle = 'col-12 col-lg-6';
 
   return (
-    <section className={clsx("site-section", styles.certificates)} id="services-section">
+    <section className={clsx("site-section", styles.certificates)} id="certificates-section">
       <div className="container">
         <h2 className="section-title highlighted-title text-center mb-5">Certifikace</h2>
         <div className="row" style={{ gap: '1.5rem 0' }}>
