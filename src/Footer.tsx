@@ -8,9 +8,9 @@ export const Footer: React.FC = () => (
       <div className={clsx('container', styles.container)}>
         <div className="row">
           <div className="col-12 col-md-6">
+            <h3 className="footer-title">Start Q1 2023</h3>
             <p>Praha, CZ + remote</p>
             <p>Forma spolupráce IČO / HPP</p>
-            <p>Start Q1 2023</p>
             <p>CZ / ENG</p>
           </div>
           <div className="col-12 col-md-6">
