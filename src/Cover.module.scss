@@ -3,7 +3,8 @@
 .container {
   background: black url("/misa-1.webp") no-repeat fixed center top;
   background-size: cover;
-  height: 100vh;
+  height: 100vh; /* Fallback for browsers that do not support Custom Properties */
+  height: calc(var(--vh, 1vh) * 100);
   position: relative;
 }
 

@@ -209,7 +209,8 @@ body:after {
     z-index: 2000;
     padding-top: 20px;
     background: #fff;
-    height: calc(100vh);
+    height: 100vh; /* Fallback for browsers that do not support Custom Properties */
+    height: calc(var(--vh, 1vh) * 100);
     transform: translateX(110%);
     box-shadow: -10px 0 20px -10px rgba(0, 0, 0, .1);
     transition: .3s all ease-in-out
@@ -245,7 +246,8 @@ body:after {
     overflow-y: scroll;
     position: relative;
     padding: 0 20px 20px 20px;
-    height: calc(100vh - 52px);
+    height: calc(100vh - 52px); /* Fallback for browsers that do not support Custom Properties */
+    height: calc(var(--vh, 1vh) * 100 - 52px);
     padding-bottom: 150px
 }
 
@@ -397,7 +399,8 @@ body:after {
 }
 
 .site-blocks-cover, .site-blocks-cover > .container, .site-blocks-cover > .container > .row {
-    height: 100vh
+    height: 100vh; /* Fallback for browsers that do not support Custom Properties */
+    height: calc(var(--vh, 1vh) * 100);
 }
 
 .site-blocks-cover h1 {
