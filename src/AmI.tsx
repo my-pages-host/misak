@@ -10,7 +10,7 @@ export const AmI: React.FC = () => {
               <div className="col-lg-4 order-1 order-lg-2 mb-4 mb-lg-0">
                 <div className="pt-5">
                   <img
-                    src="misa-2.jpg"
+                    src="misa-2.webp"
                     alt="Image"
                     className="img-fluid rounded"
                   />
