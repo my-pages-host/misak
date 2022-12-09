@@ -1,33 +1,36 @@
 /* eslint-disable */
 import React from "react";
 import styles from "./CanDo.module.scss";
+import clsx from "clsx";
 
 export const CanDo: React.FC = () => {
-  const colCardStyle = 'col-12 col-lg-6';
+  const colStyle = 'col-12 col-lg-8 col-xl-7 col-xxl-6';
   return (
     <>
       <section>
         <div className="site-section" id="services-section">
           <div className="container">
-            <h2 className="section-title highlighted-title">Co pro Váš byznys můžu udělat</h2>
-            <div className="row">
-              <div className="col-12 col-lg-8 col-xl-7 col-xxl-6 mb-5">
+            <h2 className="section-title highlighted-title text-center">Co pro Váš byznys můžu udělat</h2>
+            <div className="row justify-content-center mb-5">
+              <div className={clsx(colStyle)}>
                 <p className="text-justify">
                   S velkým nadšením vložím své schopnosti, dovednosti a znalosti do služeb projektů,
                   které vyvíjejí technologii s cílem zefektivnit proces,
                   zrychlit průchodnost, zkrátit čas čekání s cílem maximalizovat CEX & ROI.
                 </p>
-                <strong>Komplexní dodávka vyžadující multitasking</strong>
+                <h3 className="fs-6">Komplexní dodávka vyžadující multitasking</h3>
                 <p className="text-justify">
                   Miluji práci na komplexním projektu, kde je potřeba udržet přehled Top-Down.
                   Takové příležitosti vyhledávám, protože mě baví vymýšlet koncepty úplně nové nebo
                   zefektivnit stávající a potřebné změny rovnou implementovat v praxi,
                   včetně následného vyškolení nových vlastníků, roadmapy akčních kroků pro dlouhodobou udržitelnost.
                 </p>
-                <strong>Ucházím se o pozici</strong>
-                <p className="text-justify">
-                  Solution architect, Fascilitator, Process manager OPEX (Process Excellence)
-                </p>
+                <h3 className="fs-4">Ucházím se o pozici</h3>
+                <ul>
+                  <li>Solution architect</li>
+                  <li>Facilitator</li>
+                  <li>Process manager OPEX (Process Excellence)</li>
+                </ul>
 
                 <p className="text-justify">
                   Hledám společnost (projekt) s ambiciózním business záměrem,
@@ -35,9 +38,9 @@ export const CanDo: React.FC = () => {
                 </p>
               </div>
             </div>
-            <div className="row mb-4">
-              <div className="col">
-                <strong>Konkrétní činnosti za které ráda příjmu odpovědnost</strong>
+            <div className="row mb-4 justify-content-center">
+              <div className={clsx(colStyle)}>
+                <h3 className="fs-6">Konkrétní činnosti za které ráda příjmu odpovědnost</h3>
                 <ul className={styles.list}>
                   <li>Rozpracování vize programu do vize produktů/procesů</li>
                   <li>Sestavení metrik pro každý produkt/proces</li>
@@ -54,9 +57,9 @@ export const CanDo: React.FC = () => {
                 </ul>
               </div>
             </div>
-            <div className="row">
-              <div className="col">
-                <strong>Co k tomu potřebuji</strong>
+            <div className="row justify-content-center">
+              <div className={clsx(colStyle, "justify-content-center")}>
+                <h3 className="fs-6">Co k tomu potřebuji</h3>
                 <ul className={styles.list}>
                   <li>Představit vizi</li>
                   <li>Vyjasnit kritická KPI</li>

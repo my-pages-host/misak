@@ -11,11 +11,13 @@ export const Experience: React.FC = () => (
             <div className="card flex-row">
               <div className="service-number mr-4 d-none d-xl-block"><span className="icon-business_center"></span></div>
               <div className="service-about">
-                <h3><strong>Business Owner</strong></h3>
+                <h3>Business Owner</h3>
                 <p>2015-2020 | Spoluzakladatelka & Ředitelka společnosti LidskaSila s.r.o.,
-                  Expert na služby pro domácnost. </p>
-                <p><strong>Redukce celopodnikových nákladů o 57 % & zvýšení ziskovosti o 32&nbsp;%
-                  meziročně (2018-2019) </strong></p>
+                  Expert na služby pro domácnost.</p>
+
+                <h4 className="fs-6">
+                  Redukce celopodnikových nákladů o 57 % & zvýšení ziskovosti o 32&nbsp;% meziročně (2018-2019)
+                </h4>
 
                 <ul>
                   <li>
@@ -29,7 +31,9 @@ export const Experience: React.FC = () => (
                     podpory zákazníků, účetních dokumentů a kapacity zaměstnanců atd.</li>
                 </ul>
 
-                <p><strong>V důsledku toho bylo dosaženo následujících výsledků:</strong></p>
+                <h4 className="fs-6">
+                  V důsledku toho bylo dosaženo následujících výsledků:
+                </h4>
 
                 <ul>
                   <li>
@@ -65,9 +69,11 @@ export const Experience: React.FC = () => (
               <div className="service-number mr-4 d-none d-xl-block"><span className="icon-business_center"></span>
               </div>
               <div className="service-about">
-                <h3><strong>Product owner</strong></h3>
+                <h3>Product owner</h3>
                 <p>2021-2022 | CETIN a.s., česká telekomunikační společnost, která je součástí skupiny PPF</p>
-                <p><strong>Agenda spojená s řízením sprintové dodávky:</strong></p>
+                <h4 className="fs-6">
+                  Agenda spojená s řízením sprintové dodávky:
+                </h4>
                 <ul>
                   <li>
                     Tvorba a správa spritového backlogu
@@ -79,7 +85,9 @@ export const Experience: React.FC = () => (
                   <li>Definice metrik</li>
                 </ul>
 
-                <p><strong>Agenda spojená s řízením produktu:</strong></p>
+                <h4 className="fs-6">
+                  Agenda spojená s řízením produktu:
+                </h4>
 
                 <ul>
                   <li>Definice kvartálních metrik</li>
