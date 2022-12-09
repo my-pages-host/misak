@@ -5,7 +5,7 @@ export const Experience: React.FC = () => (
   <section>
     <div className="site-section" id="experience-section">
       <div className="container">
-        <h2 className="section-title highlighted-title text-center mb-5">Experience</h2>
+        <h2 className="section-title highlighted-title text-center mb-5">Zkušenosti</h2>
         <div className="row">
           <div className="col-12 col-lg-6">
             <div className="card flex-row">

@@ -13,12 +13,6 @@ export const CanDo: React.FC = () => {
             <div className="row">
               <div className="col-12 col-lg-8 col-xl-7 col-xxl-6 mb-5">
                 <p className="text-justify">
-                  Hledám společnost (projekt) s ambiciózním business záměrem,
-                  silným lídrem v čele a proaktivním týmem, který má proklientský způsob myšlení.
-                </p>
-
-                <strong>Digitalizace procesu</strong>
-                <p className="text-justify">
                   S velkým nadšením vložím své schopnosti, dovednosti a znalosti do služeb projektů,
                   které vyvíjejí technologii s cílem zefektivnit proces,
                   zrychlit průchodnost, zkrátit čas čekání s cílem maximalizovat CEX & ROI.
@@ -30,7 +24,15 @@ export const CanDo: React.FC = () => {
                   zefektivnit stávající a potřebné změny rovnou implementovat v praxi,
                   včetně následného vyškolení nových vlastníků, roadmapy akčních kroků pro dlouhodobou udržitelnost.
                 </p>
+                <strong>Ucházím se o pozici</strong>
+                <p className="text-justify">
+                  Solution architect, Fascilitator, Process manager OPEX (Process Excellence)
+                </p>
 
+                <p className="text-justify">
+                  Hledám společnost (projekt) s ambiciózním business záměrem,
+                  silným lídrem v čele a proaktivním týmem, který má proklientský způsob myšlení.
+                </p>
               </div>
             </div>
             <div className="row mb-4">
@@ -56,7 +58,7 @@ export const CanDo: React.FC = () => {
                 <strong>Co k tomu potřebuji</strong>
                 <ul className={styles.list}>
                   <li>Představit vizi</li>
-                  <li>Vyjasnit prvotní nástřel ročních KPI</li>
+                  <li>Vyjasnit kritická KPI</li>
                   <li>Definovat časový rámec</li>
                   <li>Vyjasnit předpokládaný rozpočet</li>
                   <li>Zajistit potřebné pravomoci</li>

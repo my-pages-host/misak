@@ -30,14 +30,12 @@ export const AmI: React.FC = () => {
                 </p>
               </div>
               <div className="col-lg-4 order-3 order-lg-3">
-                <h3>Vedoucí styl</h3>
+                <h3>Můj manažerský styl</h3>
                 <p><strong>Důraz na pochopení kritických milníků k naplnění ROI</strong> pro jejich
                   dodání ve stanoveném čase, kvalitě a rozsahu.</p>
                 <p><strong>Podporující otevřený dialog</strong> napříč týmem, kde se cení
                   konstruktivní debata, odlišné názory a inovativní nápady. </p>
-                <p><strong>Za všech okolností poctiví ve svých úmyslech</strong> a jednání vůči
-                  lidem i organizaci.
-                </p>
+                <p><strong>Za všech okolností poctivý ve svých úmyslech</strong> a jednání vůči lidem i organizaci.</p>
                 <p><strong>Dobíječ pozitivního odhodlání</strong> s chutí vydržet nezbytné pracovní
                   vypětí, dokud není
                   dosaženo stanoveného výsledku.</p>
