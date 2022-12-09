@@ -45,7 +45,7 @@ export const CanDo: React.FC = () => {
                   <li>Sběr VOC (voice of customer) a sestavení potřebných metrik</li>
                   <li>Nastavení standardů dokumentace (procesní mapování, RACI)</li>
                   <li>Tvorba procesní architektury</li>
-                  <li>Řízení workshopů pro zákazníky</li>
+                  <li>Facilitace warkshopů s cílem doručit potřebná řešení</li>
                   <li>Řízení přípravy PoC (Proof of Concept)</li>
                   <li>Řízení a realizace marketingové strategie STDC</li>
                   <li>Vyškolení vlastníků procesu</li>
