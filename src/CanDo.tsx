@@ -27,7 +27,8 @@ export const CanDo: React.FC = () => {
                 </p>
                 <h3 className="fs-4">Ucházím se o pozici</h3>
                 <ul>
-                  <li>Solution architect</li>
+                  <li>Project manager</li>
+                  <li>Product owner</li>
                   <li>Facilitator</li>
                   <li>Process manager OPEX (Process Excellence)</li>
                 </ul>
